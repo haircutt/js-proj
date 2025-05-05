@@ -1,13 +1,4 @@
-# COMP1531 Project Template
-
-This repo is a template from which you can create new projects similar to
-the COMP1531 Project Backend.
-
-## Getting started
-
-1. Make a GitHub account
-2. [Create a repository from this template](https://github.com/new?template_name=1531-template&template_owner=MaddyGuthridge)
-3. `git clone` your new repo and run `npm install` to set up the dependencies.
+#A fun little project :D
 
 ## How to create your app
 
@@ -51,16 +42,6 @@ Thanks for taking COMP1531! Now go and make something awesome!
 ## Nitty-gritty details
 
 ### Contributing to this template
-
-If you can think of a way to improve this template, I'd love to have your help!
-Keep in mind that this template is intended to be a simple starting point, and
-should not implement anything more than basic features. For example, implementing
-authentication and user management is beyond the scope of the template.
-
-By contributing to the project, you are releasing your code under the license
-of this template ("The Unlicense"), thereby giving permission for others to 
-use the code from your contributions as a part of their work. Of course, I am
-happy to credit you as a contributor on the template's source repository!
 
 ### Licensing
 
