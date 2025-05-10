@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+*.json
+!package.json
+node_modules
+build
+.DS_store
+coverage/
+.nyc_output
+results/
